@@ -1,5 +1,5 @@
-def addition(num1, num2)
-  5 + 1
+def addition(5, 4)
+  5 + 4
 
 end
 
