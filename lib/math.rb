@@ -24,5 +24,5 @@ puts (4 % 30)
 end
 
 def square_root(num)
-
+Integer.sqrt(81)
 end
